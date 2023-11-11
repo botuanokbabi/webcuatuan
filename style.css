@@ -1,0 +1,39 @@
+
+body{
+    background-color: pink;
+}
+.thongtin{
+    display: flex;
+    justify-content: center;
+   
+}
+
+img{
+    margin-left: 100px;
+}
+
+.facebook{
+    text-decoration: none;
+    color: blue;
+    font-weight: 900;
+}
+
+.facebook:hover{
+    color: pink;
+}
+
+.name{
+ display: flex;
+}
+.tuan{
+   color: brown;
+   font-weight: 900;
+   }
+.tuan:hover{
+    padding-left: 20px;
+}
+
+iframe{
+    display: flex;
+    justify-content: center;
+}
